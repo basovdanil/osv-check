@@ -10,6 +10,8 @@
 Только стандартная библиотека Python 3.8+. Ни pandas, ни установки: файл
 запускается на машине, где есть один python.
 
+Разбор кейса на сайте: https://basovdanil.github.io/portfolio/case-osv/case-osv.html
+
 ## Пайплайн
 
 ```text
