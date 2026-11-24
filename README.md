@@ -1,5 +1,7 @@
 # osv-check
 
+[![tests](https://github.com/basovdanil/osv-check/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/osv-check/actions/workflows/tests.yml)
+
 Проверка оборотно-сальдовой ведомости из 1С до того, как цифры ушли в отчёт.
 
 Скрипт читает CSV-выгрузку, пересчитывает каждую строку и итоги и говорит, где
