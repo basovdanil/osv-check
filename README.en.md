@@ -53,3 +53,7 @@ still balance. It reads the "balance by account" export format and does not pars
 grouping. No customer data is included — the demo sheet is generated and fictional.
 
 Case write-up with numbers: <https://basovdanil.github.io/portfolio/case-osv/case-osv.html>
+
+---
+
+More projects: [github.com/basovdanil](https://github.com/basovdanil) · write-ups: [portfolio](https://basovdanil.github.io/portfolio/)

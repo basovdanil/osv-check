@@ -101,3 +101,7 @@ python -m unittest discover -s tests
 была эта сумма попасть на этот счёт, и не заменяет сверку с первичными документами.
 Формат рассчитан на выгрузку «ОСВ по счёту» и не разбирает многоуровневые
 группировки с промежуточными итогами.
+
+---
+
+Другие проекты: [github.com/basovdanil](https://github.com/basovdanil) · разборы с числами: [portfolio](https://basovdanil.github.io/portfolio/)
