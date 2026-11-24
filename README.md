@@ -4,6 +4,11 @@
 
 **[English](README.en.md)** · [Русский](README.md)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Восемь инструментов с тестами и кодами возврата" width="100%">
+</p>
+
 Проверка оборотно-сальдовой ведомости из 1С до того, как цифры ушли в отчёт.
 
 Скрипт читает CSV-выгрузку, пересчитывает каждую строку и итоги и говорит, где

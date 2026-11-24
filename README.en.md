@@ -1,5 +1,10 @@
 # osv-check
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Eight tools with tests and exit codes" width="100%">
+</p>
+
 [![tests](https://github.com/basovdanil/osv-check/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/osv-check/actions/workflows/tests.yml)
 
 Checks a trial balance (turnover balance sheet) exported from 1C **before** the numbers reach a
